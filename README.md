@@ -97,7 +97,7 @@ Resulting file: `spread_signals_lme_0_shfe_0.csv`
   ```
 
 ### Position sizing:
-- Dollar-neutral: `$100` notional per leg
+- Dollar-neutral: `$100000` notional per leg
 
 ### PnL computation:
 - Only realized PnL is stored, based on execution price with slippage
